@@ -6,7 +6,6 @@ Mitron Bank, a retail bank, wants to improve its credit card allocation strategy
 The bank provided a dataset consisting of customer demographics and transactional spend data across various months and categories.
 
 ## TASK
-As a Data Analyst, my job was to:
 
 * Identify high-potential customers for credit card offerings.
 
